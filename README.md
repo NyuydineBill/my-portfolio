@@ -19,7 +19,7 @@ In this "choose your own adventure" template portfolio, we have a [React](https:
 
 ![JavaScript profile web application](/__images__/js-portfolio-site.gif "JavaScript profile web application")
 
-### Quick Start
+### Quick Start#
 
 1. Click the **Use this Template** button and then **Create a new repository**
 1. Select the repository owner (e.g. your GitHub account)
